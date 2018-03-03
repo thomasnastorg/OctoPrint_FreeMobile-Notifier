@@ -50,7 +50,7 @@ class FreemobilenotifierPlugin(octoprint.plugin.EventHandlerPlugin,
 		request = urllib2.Request(url)
 
 		try:
-			urllib2.urlopen(request)
+			urllib2.urlopen(request)https://github.com/thomasnastorg/OctoPrint_FreeMobile-Notifier
 		except Exception as e:
 			# report problem sending sms
 			self._logger.exception("SMS notification error: %s" % (str(e)))
