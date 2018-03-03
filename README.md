@@ -9,7 +9,7 @@ Recieve SMS notifications when OctoPrint jobs are complete.
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/Pinaute/OctoPrint_FreeMobile-Notifier/archive/master.zip
+    https://github.com/thomasnastorg/OctoPrint_FreeMobile-Notifier-test/archive/master.zip
 
 ## Configuration
 
